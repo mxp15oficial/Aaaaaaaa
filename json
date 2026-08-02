@@ -1,0 +1,28 @@
+{
+  "app_alvo": "RIO RISE",
+  "menu_flutuante": {
+    "ativo": true,
+    "posicao_inicial": {
+      "x": 50,
+      "y": 150
+    },
+    "icone_botao": "🏮",
+    "janela": {
+      "titulo": "Painel de Opções",
+      "botao_fechar": "X",
+      "botao_minimizar": "bolinha",
+      "opcoes": [
+        {
+          "id": 1,
+          "nome": "Ativar Função 1",
+          "estado": false
+        },
+        {
+          "id": 2,
+          "nome": "Ativar Função 2",
+          "estado": false
+        }
+      ]
+    }
+  }
+}
