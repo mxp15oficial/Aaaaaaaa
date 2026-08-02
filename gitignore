@@ -1,0 +1,5 @@
+# Ambientes virtuais e variáveis locais
+venv/
+.env
+__pycache__/
+*.log
